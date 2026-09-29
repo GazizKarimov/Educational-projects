@@ -33,4 +33,4 @@ Python, pandas, matplotlib, scipy, statsmodels.
 
 ## Ноутбук
 
-[`ab_test_entertainment_app.ipynb`](./ab_test_entertainment_app.ipynb)
+[`ab_test_entertainment_app.ipynb`](<./АВ тест для развлекательного приложения.ipynb>)
