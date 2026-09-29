@@ -31,4 +31,4 @@ Python, pandas, matplotlib, seaborn.
 
 ## Ноутбук
 
-[`startup_investments.ipynb`](./startup_investments.ipynb)
+[`Проект. Исследовательский анализ данных.ipynb`](./Проект. Исследовательский анализ данных.ipynb)
